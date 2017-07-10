@@ -1,0 +1,28 @@
+{
+  "name": "multichain.js",
+  "version": "1.0.0",
+  "description": "A NodeJS client for Multichain using JSON-RPC",
+  "main": "multichain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gn0mesort/multichain.js.git"
+  },
+  "keywords": [
+    "Multichain",
+    "Blockchain",
+    "Bitcoin",
+    "JSON-RPC"
+  ],
+  "author": "gn0mesort",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gn0mesort/multichain.js/issues"
+  },
+  "homepage": "https://github.com/gn0mesort/multichain.js#readme",
+  "dependencies": {
+    "uuid": "^3.1.0"
+  }
+}
